@@ -18,3 +18,6 @@ may be later
  
  
 ##Working 
+
+###Copyright
+Left
