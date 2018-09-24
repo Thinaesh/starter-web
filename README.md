@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. New line added 
+This repository is for showing how Git and GitHub work. New line added , then more changes from fp2
 
 ## Purpose
 
