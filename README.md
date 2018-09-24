@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribut
 
-You don't have to 
+You don't have to contribute
 
 ## Deployments
 
